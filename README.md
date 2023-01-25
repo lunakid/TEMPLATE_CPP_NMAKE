@@ -1,2 +1,1 @@
-# TEMPLATE_WIN_CPP
-Mainly for the issue labels...
+
